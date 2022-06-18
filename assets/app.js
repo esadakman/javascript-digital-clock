@@ -42,5 +42,3 @@ const clockTimer = setInterval(() => {
   clockTime.innerHTML = clock;
   clockYear.innerHTML = clyear;
 }, 1000);
-
-// console.log(clockTimer());
